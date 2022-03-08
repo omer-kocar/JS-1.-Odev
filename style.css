@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border;
+    background-color: #32383E;
+    color: #FEBF5E;
+}
+
+#clock {
+    font-size: 40px;
+    text-align: center;
+    color: rgba(212, 145, 0, 0.829);
+    
+}
+
+#demo {
+    margin-top: 2em;
+}
+
+.h {
+    text-align: center;
+    margin: 5em;
+}
